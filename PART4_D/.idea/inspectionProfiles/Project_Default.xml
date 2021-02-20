@@ -1,0 +1,29 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="webserver.string_to_convert" />
+          <option value="mail.*" />
+          <option value="KEENONTEST.xpath" />
+          <option value="store.models.*" />
+          <option value="store.views.*" />
+          <option value="src.keenon.store.views.account" />
+          <option value="src.keenon.store.views.store" />
+          <option value="src.keenon.store.views.*" />
+          <option value="optionalExercisesWebServer.client.GET" />
+          <option value="MailClient.raw_input" />
+          <option value="MailClient._name_" />
+          <option value="MailClient.main" />
+          <option value="PyCrypto.pycrypto.raw_input" />
+          <option value="aes.self" />
+          <option value="main.self" />
+          <option value="hashlibrary.xrange" />
+          <option value="hashlibrary.unicode" />
+          <option value="hashlibrary.buffer" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
